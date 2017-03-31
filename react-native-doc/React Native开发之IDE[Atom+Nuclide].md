@@ -18,11 +18,13 @@
   react-native init Demo --verbose
   ```
 
+  #### ![](https://raw.githubusercontent.com/Alford087/react-native/master/react-native-doc/image/a00cb73c0b098aa553ee9d9ebbbeb270.png) 
+
 - #### 打开Atom，点击Add project folder 
 
-  #### ![]() 
+- #### 导入成功后，则出现如下界面 
 
-- #### sdfsdfs 
+  #### ![](https://raw.githubusercontent.com/Alford087/react-native/master/react-native-doc/image/29c9ed9b73ef0fb2654369f174eaa708.png) 
 
 ### 运行工程 
 
